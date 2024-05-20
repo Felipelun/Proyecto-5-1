@@ -1,4 +1,4 @@
-# Proyecto-5
+# Proyecto-5-1
 # Creación de una página Web de un negocio de venta de vehículos
 # Descripción del Proyecto
 Este proyecto consiste en una aplicación web desarrollada con Streamlit que permite visualizar datos de anuncios de venta de vehículos en Estados Unidos. La aplicación proporciona una interfaz interactiva donde los usuarios pueden explorar diferentes visualizaciones de datos, incluyendo histogramas y gráficos de dispersión, para comprender mejor las tendencias y patrones en los datos de venta de vehículos.
