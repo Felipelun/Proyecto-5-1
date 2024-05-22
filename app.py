@@ -4,7 +4,7 @@ import streamlit as st
 
 
 # Especifica la ruta completa del archivo CSV
-file_path = r'C:\Users\Usuario\OneDrive\Escritorio\Proyecto-5-1\vehicles_us.csv'
+file_path = 'vehicles_us.csv'
 
 # Lee el archivo CSV y lo guarda en un DataFrame de pandas
 vehicles_df = pd.read_csv(file_path)
