@@ -23,7 +23,7 @@ def build_histogram():
 # Función para construir gráfico de dispersión
 def build_scatter():
     st.write('Construyendo un gráfico de dispersión para el conjunto de datos de anuncios de venta de coches')
-    fig = px.scatter(vehicles_df, x="model_year", y="price", color="manufacturer")
+    fig = px.scatter(vehicles_df, x="model_year", y="price")
     st.plotly_chart(fig, use_container_width=True)
 
 # Botones para construir gráficos
